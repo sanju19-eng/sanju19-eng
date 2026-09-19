@@ -32,5 +32,5 @@ Web-based academic management platform built using Django, React.js and MySQL.
 
 ## 📫 Connect With Me
 
-- LinkedIn: Add your LinkedIn profile link
+- LinkedIn: https://www.linkedin.com/in/sanjeev-kumar-913929328
 - GitHub: https://github.com/sanju19-eng
